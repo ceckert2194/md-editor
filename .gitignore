@@ -1,0 +1,7 @@
+# Ignore compiled binaries
+md-edit
+*.o
+
+# Ignore other temporary files
+*.swp
+*.tmp

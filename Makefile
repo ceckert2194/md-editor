@@ -1,3 +1,3 @@
-cdedit: cdedit.c
-	$(CC) cdedit.c -o cdedit -Wall -Wextra -pedantic -std=c99
-	@echo "cdedit compiled successfully."
+cdedit: md-edit.c
+	$(CC) md-edit.c -o md-edit -Wall -Wextra -pedantic -std=c99
+	@echo "md-edit compiled successfully."

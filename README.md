@@ -35,3 +35,4 @@ This project is a learning exercise in C programming through the development of 
 
 ## Future Plans
 The editor will eventually use GTK to provide a modern graphical interface, enhancing usability and aesthetics.
+Rewrite with ncurses for supporting additional terminals.

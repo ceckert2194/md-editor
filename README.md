@@ -1,7 +1,7 @@
 # MD Editor
 
-Inspired by the [kilo text editor](https://github.com/antirez/).  
-This project is a learning exercise in C programming through the development of a simple text editor.
+Inspired by the [kilo text editor](https://github.com/antirez/).
+This project is a learning exercise in C programming through the development of a simple text editor, following Paige Ruten's [guide](https://viewsourcecode.org/snaptoken/kilo/).
 
 ## Overview
 **MD Editor** is a lightweight text editor written in C, with plans to integrate GTK for a graphical interface. It allows users to create, open, and save text files, as well as perform basic text editing operations.
